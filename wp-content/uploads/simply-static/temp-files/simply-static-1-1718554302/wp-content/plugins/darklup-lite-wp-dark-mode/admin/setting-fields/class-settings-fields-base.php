@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'DarklupLite\Admin\Field\CSS_Editor' not found in <b>/opt/lampp/htdocs/wordpress/wp-content/plugins/darklup-lite-wp-dark-mode/admin/setting-fields/class-settings-fields-base.php</b> on line <b>13</b><br>
